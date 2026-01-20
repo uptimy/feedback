@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 📚 Documentation
+    url: https://docs.upti.my
+    about: Check our documentation for guides and API references
+  - name: 💬 Discussions
+    url: https://github.com/uptimy/feedback/discussions
+    about: Ask questions and connect with the community
+  - name: 📧 Email Support
+    url: mailto:support@upti.my
+    about: Contact us directly for urgent issues
