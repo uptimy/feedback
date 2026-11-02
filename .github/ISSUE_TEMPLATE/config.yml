@@ -1,11 +1,14 @@
 blank_issues_enabled: false
 contact_links:
   - name: 📚 Documentation
-    url: https://docs.upti.my
+    url: https://www.upti.my/docs
     about: Check our documentation for guides and API references
-  - name: 💬 Discussions
+  - name: 💬 Discord
+    url: https://www.upti.my/discord
+    about: Ask questions and get help from the community and the team
+  - name: 🗣️ Discussions
     url: https://github.com/uptimy/feedback/discussions
     about: Ask questions and connect with the community
   - name: 📧 Email Support
     url: mailto:support@upti.my
-    about: Contact us directly for urgent issues
+    about: Account, billing or anything private

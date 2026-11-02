@@ -20,7 +20,7 @@ Have an idea to make upti.my better? [Submit a feature request](https://github.c
 
 ### 💬 Ask a Question
 
-Need help or have a question? [Start a discussion](https://github.com/uptimy/feedback/discussions)
+Need help or have a question? Ask in [Discord](https://www.upti.my/discord) or [start a discussion](https://github.com/uptimy/feedback/discussions).
 
 ## 🔍 Before Submitting
 
@@ -42,7 +42,8 @@ Need help or have a question? [Start a discussion](https://github.com/uptimy/fee
 ## 🔗 Links
 
 - **Website:** [upti.my](https://upti.my)
-- **Documentation:** [docs.upti.my](https://docs.upti.my)
+- **Documentation:** [upti.my/docs](https://www.upti.my/docs)
+- **Discord:** [upti.my/discord](https://www.upti.my/discord)
 - **Status Page:** [status.upti.my](https://status.upti.my)
 - **Twitter/X:** [@uptimyapp](https://twitter.com/uptimyapp)
 
