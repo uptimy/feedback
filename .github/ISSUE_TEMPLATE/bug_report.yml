@@ -1,0 +1,54 @@
+name: Bug report
+description: Something in Uptimy doesn't work as expected
+labels: [bug]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for reporting. Found a security issue? Please report it privately instead: see the Security tab. Bugs in [Uptimy Agent](https://github.com/uptimy/agent/issues), [uptimyctl](https://github.com/uptimy/uptimyctl/issues) or the [MCP server](https://github.com/uptimy/mcp/issues) go to their own repositories.
+  - type: textarea
+    id: what
+    attributes:
+      label: What happened?
+      description: What you did, what you expected, and what happened instead.
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to reproduce
+      placeholder: |
+        1. Open a monitor's page
+        2. …
+  - type: dropdown
+    id: area
+    attributes:
+      label: Where in Uptimy?
+      options:
+        - Monitors
+        - Cron job monitors (heartbeats)
+        - Incidents
+        - Status pages
+        - Alerts and workflows
+        - Reports
+        - Integrations (Slack, Discord, Teams, ...)
+        - Account, workspace or billing
+        - Other
+    validations:
+      required: true
+  - type: input
+    id: url
+    attributes:
+      label: Page URL
+      description: The page where it happened, if there is one.
+      placeholder: https://app.upti.my/...
+  - type: input
+    id: browser
+    attributes:
+      label: Browser and device
+      placeholder: Chrome 131 on macOS
+  - type: textarea
+    id: screenshots
+    attributes:
+      label: Screenshots
+      description: Drag images here. Please hide API keys, webhook URLs or anything private first.

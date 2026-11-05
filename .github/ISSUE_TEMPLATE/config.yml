@@ -1,14 +1,14 @@
 blank_issues_enabled: false
 contact_links:
-  - name: 📚 Documentation
-    url: https://www.upti.my/docs
-    about: Check our documentation for guides and API references
-  - name: 💬 Discord
+  - name: Questions and help
     url: https://www.upti.my/discord
-    about: Ask questions and get help from the community and the team
-  - name: 🗣️ Discussions
-    url: https://github.com/uptimy/feedback/discussions
-    about: Ask questions and connect with the community
-  - name: 📧 Email Support
+    about: "Ask in the Uptimy Discord, in the #help forum. Bugs and feature requests go above."
+  - name: Documentation
+    url: https://www.upti.my/docs
+    about: Guides for monitors, status pages, alerts, reports, the CLI and the API.
+  - name: Report a security vulnerability
+    url: https://github.com/uptimy/feedback/security/advisories/new
+    about: Please report security issues privately, not as a public issue.
+  - name: Uptimy account or billing
     url: mailto:support@upti.my
-    about: Account, billing or anything private
+    about: Questions about your Uptimy account, plan or billing.
