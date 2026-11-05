@@ -36,6 +36,7 @@
 - **Questions and setup help:** ask in [Discord](https://www.upti.my/discord), in the **#help** forum.
 - **Security issues:** report them privately, see [Security](#security).
 - **Uptimy account or billing:** [support@upti.my](mailto:support@upti.my).
+- **Is a service down?** [@downtimy](https://x.com/downtimy) on X posts when GitHub, AWS, Cloudflare and the other services on our [status hub](https://www.upti.my/status) go down and recover.
 
 Our open-source projects have their own repositories: [Uptimy Agent](https://github.com/uptimy/agent) (self-hosted monitoring), [uptimyctl](https://github.com/uptimy/uptimyctl) (the CLI) and the [MCP server](https://github.com/uptimy/mcp) (for AI assistants). Report their bugs there.
 
